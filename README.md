@@ -39,7 +39,9 @@ Selected projects
 - kill_the_suslick — Godot prototype (GDScript)
 
 Stats & languages
+
 ![MIrrox27's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIrrox27&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=dark)
 
 Contact
