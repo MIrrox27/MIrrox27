@@ -47,6 +47,7 @@ Stats & languages
 Contact
 - GitHub: https://github.com/MIrrox27
 - Telegram: <a href="https://t.me/mirrorSynapsis">@mirrorSynapsis</a> or <a href="https://t.me/mirrorCognito">@mirrorCognito</a> 
+- Discord: maksim_glinomes 
 
 
 
