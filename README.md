@@ -48,7 +48,7 @@ Contact
 - GitHub: https://github.com/MIrrox27
 - Telegram: <a href="https://t.me/mirrorSynapsis">@mirrorSynapsis</a> or <a href="https://t.me/mirrorCognito">@mirrorCognito</a> 
 - Discord: <a herf="https://discord.gg/Sgux6Z2A">maksim_glinomes</a>
-- Vk - <a href="https://vk.com/id847848266https://t.me/mirrorSynapsis">id847848266</a>
+- Vk - <a href="https://vk.com/id847848266">id847848266</a>
 
 
 
