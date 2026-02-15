@@ -34,9 +34,8 @@ Skills
 Selected projects
 - Axiom — interpreter for my programming language
 - controlled-RGB-strip — RGB controller (C++ / Python)
-- REST-API — small service in Go, for me
 - automation-of-system-processes — system automation scripts (Python)
-- kill_the_suslick — Godot prototype (GDScript)
+- I'm currently building a build based on Arch Linux for my home server.
 
 Stats & languages
 
