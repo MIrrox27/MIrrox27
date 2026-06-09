@@ -30,9 +30,9 @@ Skills
 </p>
 
 Selected projects
-- Axiom — interpreter for my programming language
+- Axion-Language — interpreter for my programming language
+- Axion-IDE - simple IDE for building in the axion-language
 - controlled-RGB-strip — RGB controller (C++ / Python)
-- automation-of-system-processes — system automation scripts (Python)
 - I'm currently building a build based on Arch Linux for my home server.
 
 Stats & languages
