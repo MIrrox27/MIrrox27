@@ -1,72 +1,89 @@
+<div align="center" id="header">
+  <h1>
+    👋 Hi, I'm MIrrox27
+    <img src="https://komarev.com/ghpvc/?username=MIrrox27&style=flat-square&color=blue" alt="Profile views"/>
+  </h1>
 
-<div algin="center">
-  <p align="center">
-  <img src="https://github.com/MIrrox27.png" width="140" alt="avatar" />
-</p>
-
-# Hi — I'm MIrrox27 👋
-
-<a href="https://t.me/mirrorSynapsis" >
+  <a href="https://t.me/mirrorSynapsis">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-
-<p align="center">
-  <a href="https://github.com/MIrrox27">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MIrrox27?label=Follow&style=social">
   </a>
-  <img alt="Status" src="https://img.shields.io/badge/status-active-success?style=flat-square">
-  <img alt="Location" src="https://img.shields.io/badge/location-Russia-blue?style=flat-square">
-</p>
 </div>
 
+---
 
-Developer working with Python, C++ and Rust. I build small tools, automation scripts, embedded/embedded‑adjacent projects and game prototypes.
+### 🧑‍💻 About Me
 
-Skills 
+🇷🇺 I'm a developer from Russia passionate about **systems programming**, **language design**, and **embedded projects**.  
+🚀 Focused on building **interpreters**, **CLI tools**, and **performance-critical applications**.  
+🎮 Interested in **game prototypes**, **automation scripts**, and exploring modern programming paradigms.
+
+---
+
+### 🛠️ Tools & Technologies I Use
+
+#### 👨‍💻 Programming Languages
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="40"/>
 </p>
 
-Selected projects
-- Axion-Language — interpreter for my programming language
-- Axion-IDE - simple IDE for building in the axion-language
-- controlled-RGB-strip — RGB controller (C++ / Python)
-- I'm currently building a build based on Arch Linux for my home server.
+#### 🧰 Tools & Infrastructure
 
-Stats & languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40"/>
+</p>
 
-![MIrrox27's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIrrox27&show_icons=true&theme=dark)
+#### 🎨 Web & Frontend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=dark)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+</p>
 
-Contact
-- GitHub: https://github.com/MIrrox27
-- Telegram: <a href="https://t.me/mirrorSynapsis">@mirrorSynapsis</a> or <a href="https://t.me/mirrorCognito">@mirrorCognito</a>
-- Discord: <a herf="https://discord.gg/Sgux6Z2A">maksim_glinomes</a>
-- Vk: <a href="https://vk.com/id847848266">id847848266</a>
-- Gmail: [**maksim.pronkin@gmail.com**](mailto:maksim.pronkin@gmail.com)
+---
 
+### 💼 Featured Projects
 
+- **[Axion-Language](https://github.com/MIrrox27/Axion-Language)** — Custom programming language interpreter written in Python
+- **[Axion-IDE](https://github.com/MIrrox27/Axion-IDE)** — Integrated development environment for Axion language
+- **[rkn-simulator](https://github.com/MIrrox27/rkn-simulator)** — CLI URL blocking tool (Rust + C)
+- **[ASCII-Camera](https://github.com/MIrrox27/ASCII-Camera)** — Console tool for streaming camera images in ASCII format
+- **[CLI-Archiver](https://github.com/MIrrox27/CLI-Archiver)** — Command-line archiver based on RLE compression algorithm
+- **[donut](https://github.com/MIrrox27/donut)** — Rust-based project
+- **[REST-API](https://github.com/MIrrox27/REST-API)** — RESTful API backend in Go
+- **[To-Do-List](https://github.com/MIrrox27/To-Do-List)** — Task management application with web interface
 
-<p align="center">Made with — <b>MIrrox27</b></p>
+---
 
+### 📊 GitHub Stats & Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MIrrox27&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
+---
 
+### 📫 Get in Touch
 
-<!--
-**MIrrox27/MIrrox27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+| Platform | Link |
+|----------|------|
+| **Telegram** | [@mirrorSynapsis](https://t.me/mirrorSynapsis) / [@mirrorCognito](https://t.me/mirrorCognito) |
+| **Discord** | maksim_glinomes |
+| **GitHub** | [@MIrrox27](https://github.com/MIrrox27) |
+| **VK** | [id847848266](https://vk.com/id847848266) |
+| **Email** | maksim.pronkin@gmail.com |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<p align="center">Made with ❤️ by <b>MIrrox27</b></p>
