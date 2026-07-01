@@ -20,7 +20,7 @@
 </div>
 
 
-Developer working with Python, C++, Go and Godot (GDScript). I build small tools, automation scripts, embedded/embedded‑adjacent projects and game prototypes.
+Developer working with Python, C++ and Rust. I build small tools, automation scripts, embedded/embedded‑adjacent projects and game prototypes.
 
 Skills 
 <p>
