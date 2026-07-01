@@ -50,9 +50,7 @@
 ### 💼 Featured Projects
 
 - **[Axion-Language](https://github.com/MIrrox27/Axion-Language)** — Custom programming language interpreter written in Python
-- **[Axion-IDE](https://github.com/MIrrox27/Axion-IDE)** — Integrated development environment for Axion language
-- **[rkn-simulator](https://github.com/MIrrox27/rkn-simulator)** — CLI URL blocking tool (Rust + C)
-- **[ASCII-Camera](https://github.com/MIrrox27/ASCII-Camera)** — Console tool for streaming camera images in ASCII format
+- **[Axion-IDE](https://github.com/MIrrox27/Axion-IDE)** — Integrated development environment for Axion languag
 - **[CLI-Archiver](https://github.com/MIrrox27/CLI-Archiver)** — Command-line archiver based on RLE compression algorithm
 - **[donut](https://github.com/MIrrox27/donut)** — Rust-based project
 - **[To-Do-List](https://github.com/MIrrox27/To-Do-List)** — Task management application with web interface
