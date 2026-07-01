@@ -57,16 +57,27 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 📈 Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIrrox27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MIrrox27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIrrox27&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### 📈 Coding Activity (WakaTime)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<!--END_SECTION:waka-->
+
+</div>
+
 
 
 ---
