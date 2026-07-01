@@ -74,14 +74,9 @@
 
 | Platform | Link |
 |----------|------|
-| **Telegram** | [@mirrorSynapsis](https://t.me/mirrorSynapsis) / [@mirrorCognito](https://t.me/mirrorCognito) |
-| **Discord** | maksim_glinomes |
-| **GitHub** | [@MIrrox27](https://github.com/MIrrox27) |
+| **Telegram** | [@mirrorSynapsis](https://t.me/mirrorSynapsis)|
 | **VK** | [id847848266](https://vk.com/id847848266) |
 | **Email** | maksim.pronkin@gmail.com |
 
 </div>
 
----
-
-<p align="center">Made with ❤️ by <b>MIrrox27</b></p>
