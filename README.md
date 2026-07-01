@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="40"/>
 </p>
 
 #### 🧰 Tools & Infrastructure
@@ -56,7 +55,6 @@
 - **[ASCII-Camera](https://github.com/MIrrox27/ASCII-Camera)** — Console tool for streaming camera images in ASCII format
 - **[CLI-Archiver](https://github.com/MIrrox27/CLI-Archiver)** — Command-line archiver based on RLE compression algorithm
 - **[donut](https://github.com/MIrrox27/donut)** — Rust-based project
-- **[REST-API](https://github.com/MIrrox27/REST-API)** — RESTful API backend in Go
 - **[To-Do-List](https://github.com/MIrrox27/To-Do-List)** — Task management application with web interface
 
 ---
