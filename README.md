@@ -58,17 +58,14 @@
 ---
 
 ### 📈 Stats
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrrox27&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MIrrox27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📈 Coding Activity (WakaTime)
+### 📈 Coding Activity 
 
 <div align="center">
 
