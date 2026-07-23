@@ -49,7 +49,7 @@
 
 ### 💼 Featured Projects
 
-- **[Axion-Language](https://github.com/MIrrox27/Axion-Language)** — Custom programming language interpreter written in Python
+- **[Axion-Language](https://github.com/MIrrox27/Axion-Language)** — Custom programming language interpreter written in Python (Temporarily unavailable)
 - **[Axion-IDE](https://github.com/MIrrox27/Axion-IDE)** — Integrated development environment for Axion languag
 - **[CLI-Archiver](https://github.com/MIrrox27/CLI-Archiver)** — Command-line archiver based on RLE compression algorithm
 - **[donut](https://github.com/MIrrox27/donut)** — Rust-based project
