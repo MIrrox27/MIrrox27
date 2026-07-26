@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
 </p>
 
 #### 🧰 Tools & Infrastructure
@@ -51,8 +52,11 @@
 
 - **[Axion-Language](https://github.com/MIrrox27/Axion-Language)** — Custom programming language interpreter written in Python (Temporarily unavailable)
 - **[Axion-IDE](https://github.com/MIrrox27/Axion-IDE)** — Integrated development environment for Axion languag
+- **[Axion-SQL](https://github.com/MIrrox27/Axion-SQL)** — SQL database engine written in C#
+- **[Virtual-Machine](https://github.com/MIrrox27/Virtual-Machine)** — Simple Virtual Machine implementation in C++
 - **[CLI-Archiver](https://github.com/MIrrox27/CLI-Archiver)** — Command-line archiver based on RLE compression algorithm
 - **[donut](https://github.com/MIrrox27/donut)** — Rust-based project
+- **[Time-Tracker](https://github.com/MIrrox27/Time-Tracker)** — Simple time tracker for monitoring your screen time
 - **[To-Do-List](https://github.com/MIrrox27/To-Do-List)** — Task management application with web interface
 
 ---
@@ -90,4 +94,3 @@
 | **Email** | maksim.pronkin@gmail.com |
 
 </div>
-
