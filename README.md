@@ -13,8 +13,8 @@
 
 ### 🧑‍💻 About Me
 
-🇷🇺 I'm a developer from Russia passionate about **systems programming**, **language design**, and **embedded projects**.  
-🚀 Focused on building **interpreters**, **DevOps**, **CLI tools**, and **performance-critical applications**.  
+🇷🇺 I'm a developer from Russia passionate about **systems programming**, **language design**, **DevOps**, and **embedded projects**.  
+🚀 Focused on building **interpreters**,  **CLI tools**, and **performance-critical applications**.  
 🎮 Interested in **game prototypes**, **automation scripts**, and exploring modern programming paradigms.
 
 ---
